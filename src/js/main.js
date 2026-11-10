@@ -10,5 +10,4 @@ const productList = new ProductList(
     dataSource,
     listElement
 );
-
 productList.init();
